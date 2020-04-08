@@ -1,0 +1,17 @@
+
+
+1-) Projenin front-end tarafı vue js ile yazılmıştır.Projenin backend tarafının baktığı port 8080 dir.İlk önce backend projesini çalıştırmak gerekiyor.Çünkü default path 8080 olarak
+belirlendi.Backend ayağa kaldırdıktan sonra front-end tarafı ayağa kaldırılabilir.
+
+2-)Front end tarafında öncelikle npm install ile paketler yüklenmelidir.Paketler yüklendikten sonra npm run serve ile ayağa kaldırılabilir.
+
+3-)Backend tarafı spring boot java ile yazılmıştır.Pom dosyasındaki paketler yüklendikten sonra proje ayağa kaldırılabilir.Projede veritabanı olarak h2 kullanılmıştır.
+
+Veritabanı yolu: jdbc:h2:mem:testdb
+
+Username:user
+
+(ŞİFRE YOKTUR)
+
+Web sitesi paneline giriş yapabilmek için önce üye olmak gereklidir.
+
