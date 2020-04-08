@@ -1,6 +1,5 @@
 package com.example.todolistapp.entities;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
 import lombok.Data;
 
 import javax.persistence.*;
